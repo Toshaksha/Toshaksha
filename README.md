@@ -31,25 +31,26 @@ Currently focusing on strengthening my Python skills through practical projects 
 ### 🛠️ Skills & Tools
 
 **Languages & Libraries**  
-[Python](https://www.python.org/) • [NumPy](https://numpy.org/) • [Pandas](https://pandas.pydata.org/) • [Matplotlib](https://matplotlib.org/) • [Seaborn](https://seaborn.pydata.org/) • [scikit-learn](https://scikit-learn.org/)
+Python • NumPy • Pandas • Matplotlib • Seaborn • scikit-learn  
 
 **ML Concepts**  
-Data Preprocessing • Data Analysis • Model Building
+Data Preprocessing • Data Analysis • Model Building  
 
 **Tools & Platforms**  
-[Git & GitHub](https://github.com/) • [Jupyter Notebooks](https://jupyter.org/) • [Google Colab](https://colab.research.google.com/) • [VS Code](https://code.visualstudio.com/)
+Git & GitHub • Jupyter Notebooks • Google Colab • VS Code
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy" />
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas" />
-  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib" />
-  <img src="https://img.shields.io/badge/-Seaborn-9A8BA5?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter" />
-  <img src="https://img.shields.io/badge/-Colab-F9AB00?style=flat-square&logo=google-colab" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code" />
-</p>
+---
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/-Seaborn-9A8BA5?style=flat-square)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter)
+![Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat-square&logo=google-colab)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+
 
 
 ---
