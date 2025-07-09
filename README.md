@@ -40,17 +40,17 @@ Data Preprocessing • Data Analysis • Model Building
 Git & GitHub • Jupyter Notebooks • Google Colab • VS Code
 
 ---
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib)
-![Seaborn](https://img.shields.io/badge/-Seaborn-9A8BA5?style=flat-square)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter)
-![Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat-square&logo=google-colab)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-9A8BA5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 
 ---
