@@ -17,7 +17,7 @@ I'm passionate about technology, building meaningful projects with Python, and e
 - 🐍 **Python Projects:**  
   A collection of practical, problem-solving scripts and mini tools to sharpen my Python fundamentals.
 
-- 🤖 **AI/ML Projects (Coming Soon):**  
+- 🤖 **AI/ML Projects:**  
   Projects involving data exploration, model training, and evaluation using tools like `scikit-learn`, `NumPy`, `Pandas`, and `Matplotlib`.
 
 ---
@@ -82,7 +82,7 @@ Git & GitHub • Jupyter Notebooks • Google Colab • VS Code
 
 Feel free to explore my repos and reach out if you'd like to collaborate or chat about Python, machine learning, or open-source.
 
-- 💼 [LinkedIn](#) *([(https://www.linkedin.com/in/toshaksha/))*  
+- 💼 [LinkedIn](#) *(https://www.linkedin.com/in/toshaksha/)*  
 - 📨 Open to internships, projects, and learning opportunities!
 
 ---
