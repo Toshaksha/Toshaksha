@@ -31,13 +31,13 @@ Currently focusing on strengthening my Python skills through practical projects 
 ### 🛠️ Skills & Tools
 
 **Languages & Libraries**  
-Python • NumPy • Pandas • Matplotlib • Seaborn • scikit-learn  
+[Python](https://www.python.org/) • [NumPy](https://numpy.org/) • [Pandas](https://pandas.pydata.org/) • [Matplotlib](https://matplotlib.org/) • [Seaborn](https://seaborn.pydata.org/) • [scikit-learn](https://scikit-learn.org/)
 
 **ML Concepts**  
-Data Preprocessing • Data Analysis • Model Building  
+Data Preprocessing • Data Analysis • Model Building
 
 **Tools & Platforms**  
-Git & GitHub • Jupyter Notebooks • Google Colab • VS Code
+[Git & GitHub](https://github.com/) • [Jupyter Notebooks](https://jupyter.org/) • [Google Colab](https://colab.research.google.com/) • [VS Code](https://code.visualstudio.com/)
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -50,6 +50,7 @@ Git & GitHub • Jupyter Notebooks • Google Colab • VS Code
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git" />
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code" />
 </p>
+
 
 ---
 
