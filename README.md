@@ -31,25 +31,33 @@ Currently focusing on strengthening my Python skills through practical projects 
 ### 🛠️ Skills & Tools
 
 **Languages & Libraries**  
-Python • NumPy • Pandas • Matplotlib • Seaborn • scikit-learn  
+Python • NumPy • Pandas • Matplotlib • Seaborn • scikit-learn
 
 **ML Concepts**  
-Data Preprocessing • Data Analysis • Model Building  
+Data Preprocessing • Feature Engineering • Model Building • Evaluation 
 
 **Tools & Platforms**  
-Git & GitHub • Jupyter Notebooks • Google Colab • VS Code
+Google Colab • Jupyter Notebook • VS Code • PyCharm • Git & GitHub • Kaggle • Streamlit • Windows Terminal • Markdown
 
 ---
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-9A8BA5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Numpy-777BB4.svg?&style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-2C2D72.svg?&style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C.svg?&style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-9A8BA5?style=for-the-badge" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Google Colab"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
+  <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="Windows Terminal"/>
 </p>
 
 
@@ -66,20 +74,17 @@ Git & GitHub • Jupyter Notebooks • Google Colab • VS Code
 
 ### 🌍 Open-Source Contributions
 
-- 🐍 [cpython](https://github.com/python/cpython)  
-  Contributed documentation for `codecs.escape_encode()` and `escape_decode()` functions  
-  PR: [#136314](https://github.com/python/cpython/pull/136314) 
+- 🐍 [cpython](https://github.com/python/cpython) — Improved documentation for `codecs.escape_encode()` and `escape_decode()`  
+  PR: [#136314](https://github.com/python/cpython/pull/136314)
 
-- 🔢 [numpy](https://github.com/numpy/numpy)  
-  Fixed broken formatting in NEP 49 documentation (part of #29328)  
-  PR: [#29347](https://github.com/numpy/numpy/pull/29347) 
+- 🔢 [numpy](https://github.com/numpy/numpy) — Fixed formatting in NEP 49 , 38 documentation  
+  PR: [#29347](https://github.com/numpy/numpy/pull/29347)
 
-- ⚙️ [The Algorithms - Python](https://github.com/TheAlgorithms/Python)  
-  Added clean examples of recursion (factorial, Fibonacci, sum of digits)  
-  PR: [#12834](https://github.com/TheAlgorithms/Python/pull/12834) 
+- ⚙️ [The Algorithms - Python](https://github.com/TheAlgorithms/Python) — Added recursion examples (factorial, Fibonacci, sum of digits)  
+  PR: [#12834](https://github.com/TheAlgorithms/Python/pull/12834)
 
-- 🌱 [first-contributions](https://github.com/firstcontributions/first-contributions)  
-  First pull request merged 🎉
+- 🌱 [first-contributions](https://github.com/firstcontributions/first-contributions) — First pull request merged 🎉
+
 
 ---
 
