@@ -12,6 +12,12 @@ I'm passionate about technology, building meaningful projects with Python, and e
 
 ---
 
+### 🎯 Goals
+
+Currently focusing on strengthening my Python skills through practical projects and preparing to dive deeper into AI/ML applications. Looking forward to applying my knowledge in internships or full-time roles in AI/ML.
+
+---
+
 ### 🧰 What You'll Find Here
 
 - 🐍 **Python Projects:**  
@@ -47,6 +53,15 @@ Git & GitHub • Jupyter Notebooks • Google Colab • VS Code
 
 ---
 
+<!--
+### 🚀 Notable Projects
+
+- [Project Name](repo-link) — Short description of what makes it stand out or what skills it showcases.
+- [Project Name](repo-link) — Short description.
+-->
+
+---
+
 ### 🌍 Open-Source Contributions
 
 - 🐍 [cpython](https://github.com/python/cpython)  
@@ -68,7 +83,7 @@ Git & GitHub • Jupyter Notebooks • Google Colab • VS Code
 
 ### 📈 GitHub Stats
 
-![Toshaksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=toshaksha&show_icons=true&theme=default&cache_seconds=1800)
+![Toshaksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=toshaksha&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ---
 
@@ -82,7 +97,7 @@ Git & GitHub • Jupyter Notebooks • Google Colab • VS Code
 
 Feel free to explore my repos and reach out if you'd like to collaborate or chat about Python, machine learning, or open-source.
 
-- 💼 [LinkedIn](#) *(https://www.linkedin.com/in/toshaksha/)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/toshaksha/)   
 - 📨 Open to internships, projects, and learning opportunities!
 
 ---
