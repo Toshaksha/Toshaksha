@@ -1,4 +1,3 @@
-
 <h2 align="center">Hi there, I'm Toshaksha 👋</h2>
 
 <p align="center">
@@ -34,15 +33,17 @@ Data Preprocessing • Data Analysis • Model Building
 **Tools & Platforms**  
 Git & GitHub • Jupyter Notebooks • Google Colab • VS Code
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib)
-![Seaborn](https://img.shields.io/badge/-Seaborn-9A8BA5?style=flat-square)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter)
-![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat-square&logo=google-colab)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas" />
+  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib" />
+  <img src="https://img.shields.io/badge/-Seaborn-9A8BA5?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter" />
+  <img src="https://img.shields.io/badge/-Colab-F9AB00?style=flat-square&logo=google-colab" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code" />
+</p>
 
 ---
 
@@ -50,15 +51,15 @@ Git & GitHub • Jupyter Notebooks • Google Colab • VS Code
 
 - 🐍 [cpython](https://github.com/python/cpython)  
   Contributed documentation for `codecs.escape_encode()` and `escape_decode()` functions  
-  PR: [#136314](https://github.com/python/cpython/pull/136314) – Awaiting review
+  PR: [#136314](https://github.com/python/cpython/pull/136314) 
 
 - 🔢 [numpy](https://github.com/numpy/numpy)  
   Fixed broken formatting in NEP 49 documentation (part of #29328)  
-  PR: [#29347](https://github.com/numpy/numpy/pull/29347) – Open
+  PR: [#29347](https://github.com/numpy/numpy/pull/29347) 
 
 - ⚙️ [The Algorithms - Python](https://github.com/TheAlgorithms/Python)  
   Added clean examples of recursion (factorial, Fibonacci, sum of digits)  
-  PR: [#12834](https://github.com/TheAlgorithms/Python/pull/12834) – Review pending
+  PR: [#12834](https://github.com/TheAlgorithms/Python/pull/12834) 
 
 - 🌱 [first-contributions](https://github.com/firstcontributions/first-contributions)  
   First pull request merged 🎉
@@ -81,7 +82,7 @@ Git & GitHub • Jupyter Notebooks • Google Colab • VS Code
 
 Feel free to explore my repos and reach out if you'd like to collaborate or chat about Python, machine learning, or open-source.
 
-- 💼 [LinkedIn](#) *(Add your link here when ready)*  
+- 💼 [LinkedIn](#) *([(https://www.linkedin.com/in/toshaksha/))*  
 - 📨 Open to internships, projects, and learning opportunities!
 
 ---
