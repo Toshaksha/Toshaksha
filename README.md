@@ -1,113 +1,110 @@
-<h2 align="center">Hi there, I'm Toshaksha 👋</h2>
+<h2 align="center">Hey, I'm Toshaksha 👋</h2>
 
 <p align="center">
-  🎓 Aspiring AI/ML Engineer • 🐍 Python Developer • 🛠️ Open-Source Contributor
+  🎓 AI/ML Enthusiast • 🐍 Python Developer • 🛠️ Open-Source Contributor
 </p>
 
 ---
 
 ### 🧠 About Me
 
-I'm passionate about technology, building meaningful projects with Python, and exploring AI/ML through real-world problem-solving. I enjoy working on projects that sharpen my skills and contribute to the developer community. I'm currently focused on Python, expanding into AI/ML, and gaining hands-on experience in data analysis, model building, and open-source collaboration.
+Python developer focused on building ML-powered tools that solve real-world problems.
+I enjoy building tools, exploring ML workflows, and contributing to open-source communities.
+Currently sharpening my ML skills, building hands-on projects, and open to AI/ML internship opportunities.
 
 ---
 
-### 🎯 Goals
+### 🎯 Current Focus
 
-Currently focusing on strengthening my Python skills through practical projects and preparing to dive deeper into AI/ML applications. Looking forward to applying my knowledge in internships or full-time roles in AI/ML.
-
----
-
-### 🧰 What You'll Find Here
-
-- 🐍 **Python Projects:**  
-  A collection of practical, problem-solving scripts and mini tools to sharpen my Python fundamentals.
-
-- 🤖 **AI/ML Projects:**  
-  Projects involving data exploration, model training, and evaluation using tools like `scikit-learn`, `NumPy`, `Pandas`, and `Matplotlib`.
+- Sharpening core Python & ML skills through hands-on projects  
+- Contributing to impactful open-source repositories  
+- Preparing for internship/full-time opportunities in AI/ML roles
 
 ---
 
-### 🛠️ Skills & Tools
+### 🧰 Tech Stack
 
-**Languages & Libraries**  
-Python • NumPy • Pandas • Matplotlib • Seaborn • scikit-learn
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-**ML Concepts**  
-Data Preprocessing • Feature Engineering • Model Building • Evaluation 
+**ML & Data Science Tools**  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-4A4E69?style=for-the-badge) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**Tools & Platforms**  
-Google Colab • Jupyter Notebook • VS Code • PyCharm • Git & GitHub • Kaggle • Streamlit • Windows Terminal • Markdown
+**Platforms & Tools**  
+![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
----
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Numpy-777BB4.svg?&style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-2C2D72.svg?&style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C.svg?&style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-9A8BA5?style=for-the-badge" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Google Colab"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
-  <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="Windows Terminal"/>
-</p>
-
+**IDEs & Dev Tools**  
+![VS Code](https://img.shields.io/badge/-VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) 
 
 ---
 
 <!--
-### 🚀 Notable Projects
+### 🚀 Projects
 
-- [Project Name](repo-link) — Short description of what makes it stand out or what skills it showcases.
-- [Project Name](repo-link) — Short description.
+- **Spam vs Ham Email Classifier**  
+  Built a natural language processing model using scikit-learn to classify emails as spam or ham.  
+  [View Repo](https://github.com/Toshaksha/spam-ham-classifier) | Accuracy: 94%
+
+- **Breast Cancer Detection**  
+  Developed a classification model on medical datasets to predict malignancy with high accuracy using multiple ML algorithms.  
+  [View Repo](https://github.com/Toshaksha/breast-cancer-detection) | Accuracy: 96%
+
+- **Movie Recommendation System**  
+  Created a collaborative filtering-based recommendation system using Python and Pandas to suggest movies based on user preferences.  
+  [View Repo](https://github.com/Toshaksha/movie-recommendation-system)
 -->
 
 ---
 
 ### 🌍 Open-Source Contributions
 
-- 🐍 [cpython](https://github.com/python/cpython) — Improved documentation for `codecs.escape_encode()` and `escape_decode()`  
-  PR: [#136314](https://github.com/python/cpython/pull/136314)
+🐍 cpython — Improved documentation for codecs.escape_encode() and escape_decode()  
+PR: [#136314](https://github.com/python/cpython/pull/136314)
 
-- 🔢 [numpy](https://github.com/numpy/numpy) — Fixed formatting in NEP 49 , 38 documentation  
-  PR: [#29347](https://github.com/numpy/numpy/pull/29347)
+🔢 numpy — Fixed formatting in NEP 49 , 38 documentation  
+PR: [#29347](https://github.com/numpy/numpy/pull/29347)
 
-- ⚙️ [The Algorithms - Python](https://github.com/TheAlgorithms/Python) — Added recursion examples (factorial, Fibonacci, sum of digits)  
-  PR: [#12834](https://github.com/TheAlgorithms/Python/pull/12834)
+⚙️ The Algorithms - Python — Added recursion examples (factorial, Fibonacci, sum of digits)  
+PR: [#12834](https://github.com/TheAlgorithms/Python/pull/12834)
 
-- 🌱 [first-contributions](https://github.com/firstcontributions/first-contributions) — First pull request merged 🎉
-
-
----
-
-### 📈 GitHub Stats
-
-![Toshaksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=toshaksha&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+🌟 ray-project/ray — Handle missing 'chunks' key when Databricks UC query returns zero rows  
+PR: [#54526](https://github.com/ray-project/ray/pull/54526)
 
 ---
 
-### 📅 Contribution Calendar
+### 📊 GitHub Stats
 
-![Toshaksha's GitHub contribution calendar](https://github-readme-activity-graph.vercel.app/graph?username=toshaksha&theme=github)
+### 📊 GitHub Overview
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Toshaksha&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 90%;" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Toshaksha&theme=github" alt="Contribution Graph" style="width: 90%;" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Toshaksha/Toshaksha/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%; height: auto;" />
+</p>
+
 
 ---
 
 ### 📬 Let's Connect
 
-Feel free to explore my repos and reach out if you'd like to collaborate or chat about Python, machine learning, or open-source.
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/toshaksha/)   
-- 📨 Open to internships, projects, and learning opportunities!
+- 💼 [LinkedIn](https://www.linkedin.com/in/toshaksha/)  
+- 📧 [Email](mailto:toshaksha02l@gmail.com) 
+- 📨 Open to internships, projects & learning opportunities!
 
 ---
 
-<p align="center">⭐️ Thanks for visiting my profile! Stay tuned for more AI/ML updates.</p>
+<p align="center">⭐ Thanks for visiting — more AI/ML content coming soon!</p>
 
