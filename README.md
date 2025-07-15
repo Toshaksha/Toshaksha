@@ -52,9 +52,11 @@ Currently sharpening my ML skills, building hands-on projects, and open to AI/ML
 - **Movie Recommendation System**  
   Created a collaborative filtering-based recommendation system using Python and Pandas to suggest movies based on user preferences.  
   [View Repo](https://github.com/Toshaksha/movie-recommendation-system)
--->
 
 ---
+-->
+
+
 
 ### 🌍 Open-Source Contributions
 
@@ -89,14 +91,6 @@ PR: [#54526](https://github.com/ray-project/ray/pull/54526)
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Toshaksha/Toshaksha/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%; height: auto;" />
-</p>
-
-
----
 
 ### 📬 Let's Connect
 
