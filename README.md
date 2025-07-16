@@ -62,8 +62,8 @@ Currently sharpening my ML skills, building hands-on projects, and open to AI/ML
 
 🔢 numpy — Fixed formatting in NEP 49 , 38 documentation  
 PR: [#29347](https://github.com/numpy/numpy/pull/29347)
-
-⚙️ PrefectHQ/Prefect — Added official Docker Compose setup documentation
+ 
+⚙️ PrefectHQ/Prefect — Added official Docker Compose setup documentation  
 PR: [#18509](https://github.com/PrefectHQ/prefect/pull/18509)
 
 🐍 cpython — Improved documentation for codecs.escape_encode() and escape_decode()  
