@@ -60,17 +60,20 @@ Currently sharpening my ML skills, building hands-on projects, and open to AI/ML
 
 ### 🌍 Open-Source Contributions
 
-🐍 cpython — Improved documentation for codecs.escape_encode() and escape_decode()  
-PR: [#136314](https://github.com/python/cpython/pull/136314)
-
 🔢 numpy — Fixed formatting in NEP 49 , 38 documentation  
 PR: [#29347](https://github.com/numpy/numpy/pull/29347)
 
-⚙️ The Algorithms - Python — Added recursion examples (factorial, Fibonacci, sum of digits)  
-PR: [#12834](https://github.com/TheAlgorithms/Python/pull/12834)
+⚙️ PrefectHQ/Prefect — Added official Docker Compose setup documentation
+PR: [#18509](https://github.com/PrefectHQ/prefect/pull/18509)
+
+🐍 cpython — Improved documentation for codecs.escape_encode() and escape_decode()  
+PR: [#136314](https://github.com/python/cpython/pull/136314)
 
 🌟 ray-project/ray — Handle missing 'chunks' key when Databricks UC query returns zero rows  
 PR: [#54526](https://github.com/ray-project/ray/pull/54526)
+
+⚙️ The Algorithms - Python — Added recursion examples (factorial, Fibonacci, sum of digits)  
+PR: [#12834](https://github.com/TheAlgorithms/Python/pull/12834)
 
 ---
 
