@@ -98,7 +98,7 @@ PR: [#12834](https://github.com/TheAlgorithms/Python/pull/12834)
 ### 📬 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/toshaksha/)  
-- 📧 [Email](mailto:toshaksha02l@gmail.com) 
+- 📧 [Email](mailto:toshaksha02@gmail.com) 
 - 📨 Open to internships, projects & learning opportunities!
 
 ---
