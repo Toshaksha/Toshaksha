@@ -1,5 +1,7 @@
 <h2 align="center">Hey, I'm Toshaksha 👋</h2>
 
+<h4 align="center">Building ML-powered tools, automating workflows & contributing to open-source projects.</h4>
+
 <p align="center">
   🎓 AI/ML Enthusiast • 🐍 Python Developer • 🛠️ Open-Source Contributor
 </p>
@@ -21,6 +23,28 @@ Currently sharpening my ML skills, building hands-on projects, and open to AI/ML
 - Preparing for internship/full-time opportunities in AI/ML roles
 
 ---
+### 🚀 Projects
+
+
+- **🎬 Movie Recommendation System**  
+  - Built a collaborative filtering-based recommender system that suggests movies based on user preferences.  
+  [View Repo](https://github.com/Toshaksha/recommendation-system)
+
+- **📰 Fake News Detection using Logistic Regression**  
+  - Binary text classifier to detect fake news articles using NLP and logistic regression — helps identify misinformation efficiently.  
+  [View Repo](https://github.com/Toshaksha/fake_news_prediction)
+
+- **💳 Credit Card Fraud Detection**  
+  - Trained a logistic regression model to detect fraudulent transactions with strong precision, reducing false positives in real-world datasets.  
+  [View Repo](https://github.com/Toshaksha/credit-card-fraud-detector)
+
+- **🤖 Auto-Reply Chatbot (OpenAI + PyAutoGUI)**  
+  - Fully automated WhatsApp reply bot using OpenAI GPT-3.5 Turbo for smart, sarcastic, or context-aware replies — includes custom logic for specific contacts.  
+  [View Repo](https://github.com/Toshaksha/auto-reply-chatbot)
+
+⭐ *If you find my projects helpful, feel free to give them a star!*
+
+---
 
 ### 🧰 Tech Stack
 
@@ -37,26 +61,6 @@ Currently sharpening my ML skills, building hands-on projects, and open to AI/ML
 ![VS Code](https://img.shields.io/badge/-VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) 
 
 ---
-
-<!--
-### 🚀 Projects
-
-- **Spam vs Ham Email Classifier**  
-  Built a natural language processing model using scikit-learn to classify emails as spam or ham.  
-  [View Repo](https://github.com/Toshaksha/spam-ham-classifier) | Accuracy: 94%
-
-- **Breast Cancer Detection**  
-  Developed a classification model on medical datasets to predict malignancy with high accuracy using multiple ML algorithms.  
-  [View Repo](https://github.com/Toshaksha/breast-cancer-detection) | Accuracy: 96%
-
-- **Movie Recommendation System**  
-  Created a collaborative filtering-based recommendation system using Python and Pandas to suggest movies based on user preferences.  
-  [View Repo](https://github.com/Toshaksha/movie-recommendation-system)
-
----
--->
-
-
 
 ### 🌍 Open-Source Contributions
 
