@@ -98,12 +98,6 @@ Currently sharpening my ML skills, building hands-on projects, and open to AI/ML
 
 ---
 
-### 🐍 Contribution Snake
-
-![GitHub Snake Light](https://github.com/Toshaksha/Toshaksha/blob/main/dist/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/Toshaksha/Toshaksha/blob/main/dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
----
 
 ### 📬 Let's Connect
 
