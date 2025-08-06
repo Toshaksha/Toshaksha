@@ -64,20 +64,20 @@ Currently sharpening my ML skills, building hands-on projects, and open to AI/ML
 
 ### 🌍 Open-Source Contributions
 
-🔢 numpy — Fixed formatting in NEP 49 , 38 documentation  
-PR: [#29347](https://github.com/numpy/numpy/pull/29347)
- 
-⚙️ PrefectHQ/Prefect — Added official Docker Compose setup documentation  
-PR: [#18509](https://github.com/PrefectHQ/prefect/pull/18509)
+🔢 **NumPy** — Fixed formatting in NEP 49 and NEP 38 documentation
+[PR #29347](https://github.com/numpy/numpy/pull/29347)
 
-🐍 cpython — Improved documentation for codecs.escape_encode() and escape_decode()  
-PR: [#136314](https://github.com/python/cpython/pull/136314)
+⚙️ **Prefect** — Added official Docker Compose setup documentation
+[PR #18509](https://github.com/PrefectHQ/prefect/pull/18509)
 
-🌟 ray-project/ray — Handle missing 'chunks' key when Databricks UC query returns zero rows  
-PR: [#54526](https://github.com/ray-project/ray/pull/54526)
+🐍 **CPython** — Improved documentation for `codecs.escape_encode()` and `codecs.escape_decode()`
+[PR #136314](https://github.com/python/cpython/pull/136314)
 
-⚙️ The Algorithms - Python — Added recursion examples (factorial, Fibonacci, sum of digits)  
-PR: [#12834](https://github.com/TheAlgorithms/Python/pull/12834)
+⚙️ **The Algorithms – Python** — Added recursion examples: factorial, Fibonacci, and sum of digits
+[PR #12834](https://github.com/TheAlgorithms/Python/pull/12834)
+
+🎛️ **Gradio** — Used `inspect.getdoc` to inherit parent method docstrings in `get_function_description`
+[PR #11607](https://github.com/gradio-app/gradio/pull/11607)
 
 ---
 
@@ -98,6 +98,12 @@ PR: [#12834](https://github.com/TheAlgorithms/Python/pull/12834)
 
 ---
 
+### 🐍 Contribution Snake
+
+![GitHub Snake Light](https://github.com/Toshaksha/Toshaksha/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/Toshaksha/Toshaksha/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+---
 
 ### 📬 Let's Connect
 
