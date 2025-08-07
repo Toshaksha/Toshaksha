@@ -79,6 +79,9 @@ Currently sharpening my ML skills, building hands-on projects, and open to AI/ML
 🎛️ **Gradio** — Used `inspect.getdoc` to inherit parent method docstrings in `get_function_description`
 [PR #11607](https://github.com/gradio-app/gradio/pull/11607)
 
+📦 **Ray** — Handled missing `'chunks'` key when Databricks UC query returns zero rows
+[PR #54526](https://github.com/ray-project/ray/pull/54526)
+
 ---
 
 ### 📊 GitHub Stats
