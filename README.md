@@ -31,7 +31,7 @@ Currently sharpening my ML skills, building hands-on projects, and open to AI/ML
   [View Repo](https://github.com/Toshaksha/recommendation-system)
 
 - **📰 Fake News Detection using Logistic Regression**  
-  - Binary text classifier to detect fake news articles using NLP and logistic regression — helps identify misinformation efficiently.  
+  - Binary text classifier to detect fake news articles using NLP and logistic regression - helps identify misinformation efficiently.  
   [View Repo](https://github.com/Toshaksha/fake_news_prediction)
 
 - **💳 Credit Card Fraud Detection**  
@@ -39,7 +39,7 @@ Currently sharpening my ML skills, building hands-on projects, and open to AI/ML
   [View Repo](https://github.com/Toshaksha/credit-card-fraud-detector)
 
 - **🤖 Auto-Reply Chatbot (OpenAI + PyAutoGUI)**  
-  - Fully automated WhatsApp reply bot using OpenAI GPT-3.5 Turbo for smart, sarcastic, or context-aware replies — includes custom logic for specific contacts.  
+  - Fully automated WhatsApp reply bot using OpenAI GPT-3.5 Turbo for smart, sarcastic, or context-aware replies - includes custom logic for specific contacts.  
   [View Repo](https://github.com/Toshaksha/auto-reply-chatbot)
 
 ⭐ *If you find my projects helpful, feel free to give them a star!*
@@ -64,22 +64,22 @@ Currently sharpening my ML skills, building hands-on projects, and open to AI/ML
 
 ### 🌍 Open-Source Contributions
 
-🔢 **NumPy** — Fixed formatting in NEP 49 and NEP 38 documentation
+🔢 **NumPy** - Fixed formatting in NEP 49 and NEP 38 documentation
 [PR #29347](https://github.com/numpy/numpy/pull/29347)
 
-⚙️ **Prefect** — Added official Docker Compose setup documentation
+⚙️ **Prefect** - Added official Docker Compose setup documentation
 [PR #18509](https://github.com/PrefectHQ/prefect/pull/18509)
 
-🐍 **CPython** — Improved documentation for `codecs.escape_encode()` and `codecs.escape_decode()`
+🐍 **CPython** - Improved documentation for `codecs.escape_encode()` and `codecs.escape_decode()`
 [PR #136314](https://github.com/python/cpython/pull/136314)
 
-⚙️ **The Algorithms – Python** — Added recursion examples: factorial, Fibonacci, and sum of digits
+⚙️ **The Algorithms – Python** - Added recursion examples: factorial, Fibonacci, and sum of digits
 [PR #12834](https://github.com/TheAlgorithms/Python/pull/12834)
 
-🎛️ **Gradio** — Used `inspect.getdoc` to inherit parent method docstrings in `get_function_description`
+🎛️ **Gradio** - Used `inspect.getdoc` to inherit parent method docstrings in `get_function_description`
 [PR #11607](https://github.com/gradio-app/gradio/pull/11607)
 
-📦 **Ray** — Handled missing `'chunks'` key when Databricks UC query returns zero rows
+📦 **Ray** - Handled missing `'chunks'` key when Databricks UC query returns zero rows
 [PR #54526](https://github.com/ray-project/ray/pull/54526)
 
 ---
@@ -110,5 +110,5 @@ Currently sharpening my ML skills, building hands-on projects, and open to AI/ML
 
 ---
 
-<p align="center">⭐ Thanks for visiting — more AI/ML content coming soon!</p>
+<p align="center">⭐ Thanks for visiting - more AI/ML content coming soon!</p>
 
